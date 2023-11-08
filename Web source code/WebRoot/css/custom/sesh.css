@@ -1,0 +1,53 @@
+/* sesh的自定义样式 */
+.md-modal {
+	width: 80%;
+	max-width: 1280px;
+}
+
+.querytitle {
+	text-align: right;
+	vertical-align: middle;
+	height: 34px;
+	line-height: 34px;
+}
+
+.more-query-condition {
+	text-align: left;
+	vertical-align: middle;
+	height: 34px;
+	line-height: 34px;
+}
+
+.more-query-condition a {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.hideAndShow, .fakebutton {
+	display: none;
+}
+
+.hideul {
+	position: absolute;
+	top: 33px;
+	z-index: 200;
+	right: 15px;
+	left: 15px;
+	display: none;
+}
+
+.hideul ul {
+	border: 1px solid #ccc;
+	width: 100%;
+	background: #f4f4f4;
+	padding-left: 0
+}
+
+.hideul ul li {
+	list-style-type: none;
+	text-indent: 20px;
+}
+
+.hideul ul li:hover {
+	background: #ddd;
+}
