@@ -1,7 +1,7 @@
 ## 用法
-=> 1. The main file, 'main', is accompanied by a folder that contains the data directory housing two datasets: COVID-19 and CAR-T. Within the 'main' file, 'train_data.py' serves as the initial execution command, 'preprocess.py' handles data formatting, and 'test.py' conducts final data evaluation to generate probabilistic outcomes.
+=> 1. The main file "main" is accompanied by a folder containing data directories that house two datasets: COVID-19 and CAR-T. Within the 'main' file, the program's operational command is executed through 'train_data.py', while the 'preprocess.py' file facilitates dataset partitioning. By evaluating the training set, validation set, or test set, 'test.py' generates probabilistic results following execution of the 'train_data.py' program and can also produce a previous file format in terms of 'actual probability'.
 
-=> 2. The Test9 folder comprises assessments contributed by nine individuals.
+=> 2. The Test9 folder contains evaluations of additional data sets conducted by nine individuals. The model underwent retraining using a sample size of 193 individuals and subsequently underwent evaluation on the remaining nine participants.
 
 => 3. The Web source code directory contains the source code utilized within the web page. 
 
