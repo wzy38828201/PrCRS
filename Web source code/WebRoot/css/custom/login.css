@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+
+#password-form-group {
+	margin-bottom:5px;
+}
+
+#password-group {
+	margin-bottom:0px;
+}
+
+#errormessage {
+	color:red;
+	display: none;
+}
+
+#errormessage span {
+	margin-left: 15px;
+}
+
+#checkbox-line {
+	margin-top: 10px;
+}
+
+#checkbox-line label {
+	margin-left: -10px;
+	font-weight: normal;
+	font-size: 14px;
+}
+	
+#rememberUsername, #rememberPasswd {
+	margin-top: 2px;
+	margin-right: -8px;
+	height: 17px;
+	width: 17px;
+}
+
+#username, #password {
+	font-size: 14px;
+}
