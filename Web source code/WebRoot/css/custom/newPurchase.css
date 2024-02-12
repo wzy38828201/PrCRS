@@ -1,0 +1,16 @@
+.mp_cl_mcont{
+	background-color: #F8F8F8;
+	height: 80px;
+	width: 100px; 
+	word-wrap: break-word;
+	word-break: normal;
+	cursor: pointer;
+}
+.mp_content{
+	float : left;
+	text-align: center;
+	background-color: #FFFFFF;
+	margin: 1% 1%;
+	padding: 9px 10px 3%;
+	border: thin solid gray;
+}

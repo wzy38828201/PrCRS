@@ -1,0 +1,26 @@
+.col-sm-4 .form-control {
+	width: 100%;
+}
+#cancel_button, #cancel2Delete, #cancel2Finish {
+	margin-left: 50px;
+}
+.needprocess {
+	background-color: #7c7 !important;
+	color: #000;
+	font-weight: bold;
+}
+#cancel2Reject {
+	margin-left: 30px;
+}
+.purchasing-detail {
+	display: none;
+}
+.checkbuttonarea button {
+	margin-left: 30px;
+}
+.checkbox-inline {
+	width: 150px;
+}
+#gongyingshangpici {
+	width: 350px;
+}
